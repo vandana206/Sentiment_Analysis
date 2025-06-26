@@ -1,0 +1,6 @@
+streamlit
+joblib
+re
+nltk
+scikit-learn
+matplotlib
